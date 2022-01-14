@@ -8,3 +8,10 @@ go get github.com/aquasecurity/trivy-db/pkg/types
 go get github.com/klustair/trivy/pkg/commands/artifact@lib
 
 ```
+
+## Usage
+```go
+	opt := artifact.Option{
+        ...
+    }
+```
